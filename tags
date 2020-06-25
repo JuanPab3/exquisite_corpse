@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+clean_chat	cleanWW.py	/^def clean_chat(name_c:str):$/;"	f
+clean_clau	cleanWW.py	/^def clean_clau(name_c:str):$/;"	f
+file_name	vokram.py	/^file_name = f'clean_chats\/{person_n}_chat.txt'$/;"	v
+main	vokram.py	/^def main():$/;"	f
+markovit_grams	vokram.py	/^def markovit_grams(num:int):$/;"	f
+markovit_words	vokram.py	/^def markovit_words(num:int):$/;"	f
+ngrams	vokram.py	/^ngrams = dict()$/;"	v
+order	vokram.py	/^order = 4$/;"	v
+person_n	vokram.py	/^person_n = 'garrido'$/;"	v
+pretty_doc	vokram.py	/^def pretty_doc(person_n):$/;"	f
+setup_grams	vokram.py	/^def setup_grams(file_name):$/;"	f
+setup_words	vokram.py	/^def setup_words(file_name):$/;"	f
+text_list	vokram.py	/^text_list = []$/;"	v
+words_dict	vokram.py	/^words_dict = dict()$/;"	v
